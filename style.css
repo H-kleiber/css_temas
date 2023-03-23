@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+section{
+    background-color: aqua;
+    display: flex;  
+}
+article{
+    width: 25%;
+}
