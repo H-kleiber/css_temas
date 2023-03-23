@@ -1,3 +1,9 @@
+header{
+    color: white;
+    background-color: black;
+    width: auto;
+    height: 50px;
+}
 h1{
     text-align: center;
 }
@@ -5,7 +11,7 @@ section{
    display: flex;
 }
 section article{
-    background-color: rgb(0, 236, 59);  
+    background-color: skyblue;  
 }
 article{
     width: 25%; 
